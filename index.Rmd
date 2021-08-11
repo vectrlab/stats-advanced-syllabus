@@ -1,0 +1,312 @@
+---
+title: "Syllabus"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<p align="center">**San José State University**</p>
+
+<p align="center">**Department of Psychology**</p>
+
+<p align="center">**STAT 245: Advanced Statistics (Seminar)**</p>
+
+<p align="center">**Section 1, Fall 2021**</p>
+
+
+
+# Instructor Contact Information
+Instructor:	      Dave Schuster, Ph.D.
+
+Office Location:	DMH 315
+
+Telephone:	      408-924-5659
+
+Email:	          david.schuster@sjsu.edu
+
+Office Hours:	    TBD
+
+# Course Information
+Classroom:	TBD
+
+Class Days/Time:	Tues. & Thurs., 10:30am – 11:45am
+
+Prerequisites:	STAT 115 or equivalent
+
+# Course Description
+This seminar is designed to train graduate students to critically select, use, interpret, and communicate the results of statistical analysis in psychological research. While reviewing fundamentals of descriptive and inferential statistics, we will cover advanced topics in the use of statistics for research, such as: The General Linear Model, factorial ANOVA, simple effects tests, power, effect size, and statistical conclusion validity. The course will emphasize discussion of current issues affecting the practice of science, especially those associated with replicability, publishing, and diversity. Students will be trained to run analyses using the R language.
+
+From the catalog: Advanced problems in statistical analysis. Advanced consideration of hypothesis testing, estimation and analysis of variance.
+
+## Course Format
+
+This is a technology intensive seminar. Required technology is described in the [required materials section](#requiredmaterials) of this document.
+
+# Learning Outcomes
+
+## Program Learning Outcomes
+Upon successful completion of the requirements for the MA in Research and Experimental Psychology, students will be able to:
+
+### Goal 1. Knowledge Base
+
+Students completing the MA in Psychology program will understand the major theoretical perspectives and research methods across areas of experimental psychology, i.e., Developmental, Social, Cognitive, and Physiological. 
+
+- PLO 1.1 – Understand the major theoretical perspectives and research methods across areas of experimental psychology, i.e., Developmental, Social, Cognitive, and Physiological.
+
+### Goal 2. Research Methods & Scholarship
+
+Graduates of our program will possess an advanced level of competence in research methods, statistical techniques, and technical writing skills.  Students completing the MA in Psychology program are required to complete a thesis.  The thesis will:
+
+-	*PLO 2.1 – demonstrate creative problem-solving in the design, implementation of empirical research.
+
+-	PLO 2.2 – demonstrate project management skills in the implementation of empirical research.
+
+-	*PLO 2.3 – demonstrate advanced competency in the statistical analysis and interpretation of empirical research findings. 
+
+-	*PLO 2.4 – be able to communicate (oral and written) their research findings at a professional level.  
+
+### Goal 3. Career Enhancement
+
+Graduates of our program will experience career enhancement through placement in a doctoral program or acceptance of a position requiring a master’s in psychology in the public or private sector. Students completing the MA in Psychology program will:
+
+-	PLO 3.1 – achieve career enhancement through placement in a doctoral program or acceptance of a position requiring a master’s in psychology in the public or private sector.
+
+* STAT 245 contributes to PLOs 2.1, 2.3, and 2.4.
+
+## Course Learning Outcomes 
+
+The goals of this course are to help you: build a solid conceptual understanding of statistics in research, develop the practical skills necessary to apply statistics to research, and become a self-directed learner. 
+
+Upon successful completion of this course, you will be able to:
+
+-	CLO 1: Explain which statistical procedure(s) are appropriate for a given research situation
+
+-	CLO 2: Conduct and interpret statistical analyses, including mixed factorial designs
+
+-	CLO 3: Communicate results of statistical analysis in APA style
+
+-	CLO 4: Discuss systemic issues affecting the practice of science and suggest solutions
+
+The learning objectives will be assessed via written assignments. 
+
+# Required Materials {#requiredmaterials}
+
+## Canvas and E-Mail
+
+All graded assignments will be accepted only in electronic form using the Canvas learning management system assignments page (Canvas is available at https://sjsu.instructure.com/). Communication regarding the course will be sent via the e-mail address linked to your MySJSU account or posted to Canvas. It is your responsibility to make sure you are enrolled in Canvas and receiving my email.
+ 
+## Required Texts/Readings
+
+Schuster, D., Navarro, D., Crump, M. J. C., & Suzuki, J. (2020). [Advanced Statistics Remix](https://www.davidschuster.info/books/advanced-stats-remix). 
+
+The required text is freely available from my web site.
+
+Required supplementary course material will be made available on Canvas regularly.
+
+The following book is recommended and available electronically in the SJSU library:
+
+Cohen, B. H. (2013). Explaining psychological statistics (4th ed.). Hoboken, NJ: John Wiley & Sons. ISBN: 978-1118436608 
+
+## Computer
+
+A laptop or tablet computer will be necessary to participate in class activities and for your use outside of class. In lieu of a computer or tablet, a smartphone may be used but is unlikely to provide a good experience. If you do not have a laptop or tablet computer available for this course, please meet with me to discuss free options for computer resources. 
+
+We may occasionally hold meetings and activities via <a href="https://sjsu.zoom.us">Zoom</a>. A webcam and microphone are recommended but not required. For your security, I recommend that you disable and cover your webcam when not in use.
+
+## Virtual Lab Environment
+
+This course will require use of many software packages, including R, Excel, Word, and SPSS. You will be provided with access to a virtual lab environment with this software already installed. If you prefer, these software packages are available to you at no cost for use on your own computer:
+
+- [RStudio](https://www.rstudio.com)
+
+- [R](https://cran.r-project.org)
+
+- [SPSS](https://www.sjsu.edu/it/services/collaboration/software/instructions.php)
+
+- [Adobe Creative Cloud](https://www.sjsu.edu/ecampus/software-tools/teaching-tools/video-creative/adobe/students.php)
+
+- [Microsoft Office including Excel and Word](https://www.office.com/getoffice365)
+
+- [Google Drive](https://sjsu.drive.google.com)
+
+# Grading Policy
+
+## Determination of Grades
+
+Grades will be available to you on Canvas throughout the semester. Grades are assigned based on your final point total out of 1000 points for the course:
+
+--------------------------------------
+Grade                 Points
+--------------------- ----------------
+A plus	              > 965 points
+
+A	                    916 to 965 points
+
+A minus	              896 to 915 points
+
+B plus                866 to 895 points
+
+B	                    816 to 865 points
+
+B minus	              796 to 815 points
+
+C plus	              766 to 795 points
+
+C	                    716 to 765 points
+
+C minus	              696 to 715 points
+
+D plus	              666 to 695 points
+
+D	                    616 to 665 points
+
+D minus               595 to 615 points
+
+F	                    < 595 points
+--------------------------------------
+
+## Rounding is Included in the Grading Scale
+
+The point totals reflect rounding up to the nearest percentage. For example, an A- would normally require 900 points (or 90% of 1000 points). With rounding, it only requires 896 points (or 89.6% of 1000 points). Because rounding is built into the grading scale, your grade will be based on your final point total, rounded to the nearest whole point (so, 895.6 points is an A-, but 895.4 points is a B+). To be fair to everyone in the class, these are firm cutoffs.
+
+# Course Requirements and Assignments
+
+## Enagement Activities
+**Engagement activities are prerequisites for completing weekly assignments. Engagement activities do not directly impact your final grade.**
+
+For each course module, several engagement activities will be posted to Canvas. Engagement activities are designed to build your knowledge and give you practice without any consequences for failure. For example, one engagement activity might involve attending a class discussion and writing a short reflection. Engagement activities are graded for completion but are not worth any grade points.
+
+## Weekly Assignments
+**Weekly assignments are 100% of your final grade (1000 points total).**
+
+One graded assignment will be posted to Canvas each week worth approximately 75 points. The weekly assignment is an assessment of the knowledge and skills you have developed through engagement activities. Most assignments will have multiple parts and will require analysis of a novel data set and write up. All submitted assignments must use APA style, but no manuscript formatting is necessary unless stated (e.g., you do _not_ need to include a title page, abstract, headers, page numbers, etc.). 
+
+Each graded assignment will be scored as satisfactory/credit or unsatisfactory/no credit. An assignment labeled satisfactory/credit will earn full points. An assignment labeled unsatisfactory/no credit may be revised and resubmitted without penalty.
+
+One course meeting each week will be dedicated to discussion and work on your current assignment.
+
+## Resubmission, Due Dates, and Grading
+
+Any assignment that receives a grade of unsatisfactory/no credit may be revised and resubmitted. Assignments may be submitted at any time until 11:59pm on the last day of instruction for the semester. 
+
+Weekly assignments will only be graded once the required number of engagement activities have been completed. Because engagement activities are preparation for the weekly assignment, you are strongly encouraged to do the engagement activities first. You may submit assignments in any order and at any time; however, I will only grade the first assignment you have not yet completed. An example might help:
+
+Imagine you work ahead and do all the engagement activities for Week 1 and Week 2. Then, you complete and submit the weekly assignment for Week 2, out of order. I see your submission but do not start grading it until you submit your assignment for Week 1. Again, hypothetically, imagine you then receive *no credit* for your Week 1 submission. You would need to revise, resubmit, and earn credit for your Week 1 assignment before I would grade Week 2. Imagining you got credit on your second attempt for Week 1's assignment, I would then grade your Week 2 assignment.
+
+Because of the grading policy and scheduling of some class activities, you are strongly encouraged to work on the course material in order and to submit assignments in order with enough time for them to be graded and resubmitted. The grading criteria for assignments will be the same regardless of whether the assignment is turned in early or near the end of the semester. 
+
+## Track Your Progress
+
+I am available to discuss your progress in the course at any time. To help you plan for your grade, you are encouraged to enter your scores in my [progress report tool](https://www.davidschuster.info/learn/progress) available on my web site.
+
+## Final examination or evaluation
+
+Faculty members are required to have a culminating activity for their courses, which can include a final examination, a final research paper or project, a final creative work or performance, a final portfolio of work, or other appropriate assignment.
+
+The final evaluation in this course will be the final weekly assignment.
+
+# Classroom Values
+
+Our classroom values apply equally to students and instructors in this course. We agree to:
+
+-	**Mutual respect**, which means that we recognize and value that we bring different skills, experiences, and qualities to our course, and we act with regard for how our behavior affects others. As much as we can, we recognize and accommodate individual constraints that impact our work. If we fail to maintain mutual respect, we will acknowledge it and work to do better. We extend respect to all members of our class community, as we know everybody plays a role in our collective success. Some ways we will show mutual respect include:
+    + Affirming that intolerance, including racism, xenophobia, transphobia, and homophobia will not be acceptable in the physical and digital spaces that make up our course. 
+  
+    + Respecting our and others’ intellectual property. For students, this means not sharing or posting copyrighted class materials. For instructors, this means seeking permission before sharing or posting student work (unless for purposes of grading, checking for or responding to academic dishonesty, or due to legal action). Your instructor won’t ask you to buy needlessly expensive course materials (and will work with you if costs are a barrier) and you won’t discuss ways to pirate them.
+  
+    + We understand that we have multiple obligations and limited time. Meetings will start promptly at times convenient for both of us, and we will not expect to be able to reschedule meetings if we no-show.
+  
+    + We understand that we are all doing our best as we face our own challenges. Succeeding in a course is not easy! Being a good instructor is not easy! You will put in reasonable effort on your assignments, and your instructor will assume your assignments reflect reasonable effort. To put it bluntly, you won’t turn in garbage and your instructor will never ridicule your effort. You can expect patience whenever you struggle with course material.
+
+- **Academic and professional integrity**, which means that the credibility of science and education depends on us acting ethically. We know that ethical violations by us or our collaborators can jeopardize our research and harm our reputations as researchers. We also know that we cannot act ethically if we do not understand what that means for researchers. Therefore, it is important that learning research ethics is part of your experience in this class. You can expect support and guidance when you navigate and speak up on challenging ethical situations. You can also expect no tolerance of ethical or academic integrity violations that negatively affect our class or community, including cheating and plagiarism. You can expect your instructor to follow all University policies and protocols regarding the handling of suspected academic dishonesty. Penalties can include failure of the course.
+
+-	**Unlimited support** related to the class or your professional training and development. This means that there is no limit to the number of questions you may ask, e-mails you may send, and no restriction on the hours you can spend in meetings with your instructor. You need never apologize for asking a question or seeking support. Time is limited but support is not; if the volume of student meetings were to become unmanageable, your instructor will make adjustments to help all students more efficiently (for example, by answering a common question to the whole class). Your patience with adjustments like these is appreciated but is never a signal to not seek support; your instructor will always be happy to help you.
+
+-	**Incorporation of issues of social justice**. It is my goal to help prepare you to tackle the major societal challenges we face, including COVID-19 and broader issues of equity and sustainability. Success against these challenges requires equitable participation from people of diverse backgrounds and experiences. To support this mission, this course will focus on issues of social justice as they are relevant to the course and take a critical look at how our discipline has/can/will address social justice problems, as well as how it has contributed to social injustices. 
+
+# University Policies
+
+Per [University Policy S16-9](http://www.sjsu.edu/senate/docs/S16-9.pdf),relevant university policy concerning all courses, such as student responsibilities, academic integrity, accommodations, dropping and adding, consent for recording of class, etc. and available student services (e.g. learning assistance, counseling, and other resources) are listed on [Syllabus Information web page](https://www.sjsu.edu/curriculum/courses/syllabus-info.php). Make sure to visit this page to review and be aware of these university policies and resources.
+
+You must obtain the instructor’s permission to make any audio or video recordings in this class.
+
+Success in this course is based on the expectation that students will spend, for each unit of credit, a minimum of 45 hours over the length of the course (normally three hours per unit per week) for instruction, preparation/studying, or course related activities, including but not limited to internships, labs, and clinical practica. Other course structures will have equivalent workload expectations as described in the syllabus. 
+
+# Course Schedule
+
+The course schedule is tentative and likely to change; modifications will be posted to this page.
+
+------------------------------------------------------------------------------------------
+Week Date                   Topics and activities
+---- ---------------------- ---------------------------------------------------------------
+1	    Thu., Aug. 22	        Introduction 
+  
+2	    Tue., Aug. 27         Article discussion (Tue.), Activity (Thu.)
+
+      Thu., Aug. 29	        Causal inference and research design
+      
+3	    Tue., Sep. 3          Article discussion (Tue.), Activity (Thu.)
+      
+      Thu., Sep. 5	        Measurement and descriptive statistics
+
+4	    Tue., Sep. 10         Article discussion (Tue.), Activity (Thu.)
+      
+      Thu., Sep. 12	        Inferential statistics: The Central Limit Theorem
+
+5	    Tue., Sep. 17         Article discussion (Tue.), Activity (Thu.)
+
+      Thu., Sep. 19	        Hypothesis testing: Power and effect size
+
+6	    Tue., Sep. 24         Article discussion (Tue.), Activity (Thu.)
+
+      Thu., Sep. 26	        Practical issues in hypothesis testing
+
+7	    Tue., Oct. 1         Article discussion (Tue.), Activity (Thu.)
+
+      Thu., Oct. 3	        Data cleaning and missing values analysis
+
+8	    Tue., Oct. 8          Article discussion (Tue.), Activity (Thu.)
+
+      Thu., Oct. 10	        The general linear model (GLM)
+
+9	    Tue., Oct. 15         Article discussion (Tue.), Activity (Thu.)
+
+      Thu., Oct. 17	        Publishing, meta-analysis, and open science
+
+10	  Tue., Oct. 22         Article discussion (Tue.), Activity (Thu.)
+
+      Thu., Oct. 24	        Multiple regression, logistic regression, hierarchical regression and other techniques
+
+11	  Tue., Oct. 29         Article discussion (Tue.), Activity (Thu.)
+
+      Thu., Oct. 31	        One-way ANOVA
+
+12	  Tue., Nov. 5          Article discussion (Tue.), Activity (Thu.)
+
+      Thu., Nov. 7	        Multiple comparisons
+
+13	  Tue., Nov. 12         Article discussion (Tue.), Activity (Thu.)
+
+      Thu., Nov. 14	        Factorial ANOVA
+
+14	  Tue., Nov. 19         Article discussion (Tue.), Activity (Thu.)
+
+      Thu., Nov. 21	        Factorial ANOVA
+
+15	  Tue., Nov. 26         Article discussion (Tue.), Activity (Thu.)
+
+      Thu., Nov. 28	        Writing Workshop Thanksgiving, No class (Thu.)
+
+16	  Tue., Dec. 3          Article discussion (Tue.), Activity (Thu.)
+
+      Thu., Dec. 5	        Presentation of teaching demos
+      
+Final Mon., Dec. 16	        Final Submission of term paper
+------------------------------------------------------------------------------------------
+
+
+
