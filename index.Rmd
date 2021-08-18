@@ -1,12 +1,20 @@
 ---
 title: "Syllabus"
+book_filename: statistics
 output:
-  html_document: default
-  pdf_document: default
+  pdf_document:
+    toc: no
+  html_document:
+    toc: yes
+    theme: united
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = getwd()) })
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+library(ezknitr)
+ezknit(file = "index.Rmd", out_dir = "docs")
+
 ```
 
 <p align="center">**San Jos&eacute; State University**</p>
@@ -51,7 +59,7 @@ From the catalog: Advanced problems in statistical analysis. Advanced considerat
 
 This is a technology intensive seminar. Required technology is described in the [required materials section](#requiredmaterials) of this document.
 
-# Learning Outcomes
+# Learning Outcomes {#learningoutcomes}
 
 ## Program Learning Outcomes
 Upon successful completion of the requirements for the MA in Research and Experimental Psychology, students will be able to:
@@ -126,7 +134,7 @@ We may occasionally hold meetings and activities via <a href="https://sjsu.zoom.
 
 This course will require use of many software packages, including R, Excel, Word, and SPSS. I will provide instruction in the use of the software; you do not need to start the course with this knowledge.
 
-You will be provided with access to a [virtual lab environment[https://one.sjsu.edu/task/all/desktop-as-a-service] with this software already installed. If you prefer, these software packages are also available to you at no cost for use on your own computer:
+You will be provided with access to a [virtual lab environment](https://desktop.sjsu.edu) with this software already installed. Instructions to access the virtual lab are available on Canvas. If you prefer, these software packages are also available to you at no cost for use on your own computer:
 
 - [RStudio](https://www.rstudio.com)
 
@@ -136,7 +144,7 @@ You will be provided with access to a [virtual lab environment[https://one.sjsu.
 
 - [Adobe Creative Cloud](https://www.sjsu.edu/ecampus/software-tools/teaching-tools/video-creative/adobe/students.php)
 
-- [Microsoft Office including Excel and Word](https://www.office.com/getoffice365)
+- [Microsoft Office](https://www.office.com/getoffice365)
 
 - [Google Drive](https://sjsu.drive.google.com)
 
@@ -203,13 +211,13 @@ One course meeting each week will be dedicated to discussion and work on your cu
 
 As part of the applied project, you will conduct an analysis of an existing dataset. The complete applied project will include an abstract, introduction, methods section, results, and discussion. Drafts of each component will be completed as part of the weekly assignments throughout the course. You will present your applied project during the final exam period. A rubric with more complete instructions will be posted on Canvas, but because this assignment is completed over a series of milestone assignments throughout the semester, it is anticipated that successful completion of all requirements of the project, including the presentation, will earn full points. Your final applied project must be compiled into one document and submitted separately to earn credit.
 
-## Due Dates, Late Policy, Resubmission
+## Resubmission, Make-ups, and Grading Process
 
 ### You can resubmit graded assignments without penality
 
 Any assignment that receives a grade of unsatisfactory/no credit may be revised and resubmitted. Assignments may be submitted at any time until 11:59pm on the last day of instruction for the semester. At that time, all unsubmitted and unsatisfactory/no credit assignments will receive zero points. Should an event prevent you from completing the course, contact me as soon as you are able to discuss our options for an incomplete.
 
-### Make-up of scheduled activities
+### We will work together on make-ups of scheduled activities
 
 Class activities that are scheduled, such as an article discussion, cannot be recreated easily. If you miss a scheduled class activity, one option is to forgo the engagement points for that activity and earn them in other activities available for that week. Depending on the specifics of your situation, that may or may not be a good solution. If it is not, let me know and I will work with you to make up a missed scheduled activity by suggesting an alternative assignment. If I become concerned about excessive use of this option, I will discuss it with you. Finally, this is not an appropriate mechanism for extended absences from class; if you anticipate being absent from class, contact me as soon as you become aware of it.
 
