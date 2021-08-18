@@ -7,14 +7,10 @@ output:
   html_document:
     toc: yes
     theme: united
-knit: (function(inputFile, encoding) {
-  rmarkdown::render(inputFile, encoding = encoding, output_dir = getwd()) })
 ---
 
 ```{r setup, include=FALSE}
-library(ezknitr)
-ezknit(file = "index.Rmd", out_dir = "docs")
-
+knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <p align="center">**San Jos&eacute; State University**</p>
