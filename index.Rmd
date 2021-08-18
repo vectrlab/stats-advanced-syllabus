@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 # Instructor Contact Information
-Instructor:	      Dave Schuster, Ph.D.
+Instructor:	      David Schuster, Ph.D.
 
 Office Location:	DMH 315
 
@@ -138,6 +138,8 @@ You will be provided with access to a [virtual lab environment](https://desktop.
 
 - [SPSS](https://www.sjsu.edu/it/services/collaboration/software/instructions.php)
 
+- [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower)
+
 - [Adobe Creative Cloud](https://www.sjsu.edu/ecampus/software-tools/teaching-tools/video-creative/adobe/students.php)
 
 - [Microsoft Office](https://www.office.com/getoffice365)
@@ -209,20 +211,21 @@ As part of the applied project, you will conduct an analysis of an existing data
 
 ## Resubmission, Make-ups, and Grading Process
 
-### You can resubmit graded assignments without penality
+### You can resubmit graded assignments without penalty.
 
 Any assignment that receives a grade of unsatisfactory/no credit may be revised and resubmitted. Assignments may be submitted at any time until 11:59pm on the last day of instruction for the semester. At that time, all unsubmitted and unsatisfactory/no credit assignments will receive zero points. Should an event prevent you from completing the course, contact me as soon as you are able to discuss our options for an incomplete.
 
-### We will work together on make-ups of scheduled activities
+### We will work together on make-ups of scheduled activities.
 
 Class activities that are scheduled, such as an article discussion, cannot be recreated easily. If you miss a scheduled class activity, one option is to forgo the engagement points for that activity and earn them in other activities available for that week. Depending on the specifics of your situation, that may or may not be a good solution. If it is not, let me know and I will work with you to make up a missed scheduled activity by suggesting an alternative assignment. If I become concerned about excessive use of this option, I will discuss it with you. Finally, this is not an appropriate mechanism for extended absences from class; if you anticipate being absent from class, contact me as soon as you become aware of it.
 
 For all other class activities, no makeup policy is needed.
 
-### Grading process
+### I will grade your assignments in order.
 
--You may submit assignments in any order and at any time. However:
-  + Because of the grading policy and scheduling of some class activities, you are strongly encouraged to work on the course material in order as scheduled and to submit assignments in order with enough time for them to be graded and resubmitted. The grading criteria for assignments will be the same regardless of whether the assignment is turned in early or near the end of the semester. 
+- You may submit assignments in any order and at any time before the end of instruction. However:
+
+  + Because of the grading policy and scheduling of some class activities, you are strongly encouraged to work on the course material in order, as scheduled, and to submit assignments in order with enough time for them to be graded and resubmitted. The grading criteria for assignments will be the same regardless of whether the assignment is turned in early or near the end of the semester. 
   
   + Because engagement activities are preparation for the weekly assignment, you are strongly encouraged to do the engagement activities before starting the assignment. 
   
@@ -232,19 +235,17 @@ For all other class activities, no makeup policy is needed.
  
  + I will provide you with timely grades and feedback. I will catch up on grading at a minimum of once per week but likely more frequently.
  
-An example might help:
+An example of might help:
 
 Imagine you work ahead and do all the engagement activities for Week 1 and Week 2. Then, you complete and submit the weekly assignment for Week 2, skipping Week 1. I see your submission, but I do not start grading it until you submit your assignment for Week 1. Next, imagine you then receive *no credit* for your Week 1 submission. You would need to revise, resubmit, and earn credit for your Week 1 assignment before I would grade Week 2. Imagining you got credit on your second attempt for Week 1's assignment, I would then grade your Week 2 assignment automatically.
 
-### You can resubmit graded assignments without penality
+As this example shows, the course offers some flexibility but will work best if you complete the coursework in order.
 
-Any assignment that receives a grade of unsatisfactory/no credit may be revised and resubmitted. Assignments may be submitted at any time until 11:59pm on the last day of instruction for the semester. At that time, all unsubmitted and unsatisfactory assignments will receive zero points. Should an event prevent you from completing the course, contact me as soon as you are able to discuss our options for an incomplete.
-
-### You might 'fail' an assignment or a few; that is normal
+### You might 'fail' an assignment or a few; that is normal.
 
 The reality of this course structure is that you may receive no credit/unsatisfactory weekly assignment grades from time to time. This might be a novel or uncomfortable experience for you as a graduate student, because: (1) you probably earned high grades in college, and (2) college has norms where low grades are 'bad.' *I encourage you to challenge this unhelpful mindset.* This is a course designed for you to 'fail' quickly, learn, and succeed. This structure is similar to your thesis, which also involves a process of trying, getting feedback, revising, and moving forward.
 
-## Track Your Progress
+### Track your progress frequently.
 
 I am available to discuss your progress in the course at any time. To help you plan for your grade, you are encouraged to enter your scores in my [progress report tool](https://www.davidschuster.info/learn/progress) available on my web site.
 
@@ -265,7 +266,7 @@ We agree to:
   
     + We understand that we have multiple obligations and limited time. Our meetings will start promptly at times convenient for both of us.
   
-    + We understand that we are all doing our best as we face our own challenges. I will expect that you put in reasonable effort on your assignments. You can expect patience and help whenever you struggle with course material.
+    + We understand that we are all doing our best as we face our own challenges. I will expect that you put in reasonable effort on your assignments. You can expect patience and help whenever you struggle with course material. And, I am always available to meet with you should life events impact your progress in the course or success in your program.
 
 - **Academic and professional integrity**, which means that the credibility of science and education depends on us acting ethically. Ethical violations by us or our collaborators can jeopardize our research and harm our reputation as researchers. We also know that we cannot act ethically if we do not understand what that means for researchers. Therefore, it is important that research ethics are part of your learning in this class. You can expect support and guidance when you navigate and speak up on challenging ethical situations. You can also expect no tolerance of ethical or academic integrity violations that negatively affect our class or community, including cheating and plagiarism. You can expect your instructor to follow all University policies and protocols regarding the handling of suspected academic dishonesty. Penalties can include failure of the course.
 
