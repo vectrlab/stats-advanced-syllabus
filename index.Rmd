@@ -33,7 +33,7 @@ Telephone:	      408-924-5659
 
 Email:	          david.schuster@sjsu.edu
 
-Office Hours:	    4:00-5:00pm Tuesdays and Thursdays; I am also available by appointment
+Office Hours:	    4:00-5:00pm Tuesdays and Thursdays; I am also available for in-person and Zoom appointments
 
 # Course Information
 Classroom:	DMH 359
@@ -44,7 +44,7 @@ Prerequisites:	STAT 115 or equivalent
 
 # Welcome!
 
-My name is Dr. David Schuster, and you are welcome to call me 'Dave,' 'David,' or 'Dr. Schuster.' My preferred pronouns are he/him/his. I have been teaching since 2008 and a professor at SJSU since 2013. I earned my Ph.D. in psychology from the University of Central Florida. I am looking forward to being your instructor and serving as a resource for you as you develop your research and statistics skills in our course. Because this is a transitional time, I am also working to anticipate and minimize disruption to our class, some of which may be beyond our control. If we are patient with each other, I am confident that we will have a successful and impactful course.
+My name is Dr. David Schuster, and you are welcome to call me 'Dave,' 'David,' or 'Dr. Schuster.' My preferred pronouns are he/him/his. I have been teaching since 2008 and a professor at SJSU since 2013. I earned my Ph.D. in psychology from the University of Central Florida. I am looking forward to being your instructor as you develop your research and statistics skills in our course. I am also working to anticipate and minimize disruption to our class (some of which may be beyond our control) while prioritizing our health and safety. I will keep you updated should any changes become necessary, and I appreciate your patience as we navigate these challenges.
 
 # Course Description
 This seminar is designed to train graduate students to critically select, use, interpret, and communicate the results of statistical analysis in psychological research. While reviewing fundamentals of descriptive and inferential statistics, we will cover advanced topics in the use of statistics for research, such as: The General Linear Model, factorial ANOVA, simple effects tests, power, effect size, and statistical conclusion validity. The course will emphasize discussion of current issues affecting the practice of science, especially those associated with replicability, publishing, and implications for social justice. Students will be trained to run analyses using the R language.
