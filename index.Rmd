@@ -2,11 +2,11 @@
 title: "Syllabus"
 book_filename: statistics
 output:
+  pdf_document:
+    toc: no
   html_document:
     toc: yes
     theme: united
-  pdf_document:
-    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -304,43 +304,43 @@ Week Date                   Topics                                              
       
       Thu., Sep. 9	        
 
-5	    Tue., Sep. 14         Inferential statistics: The Central Limit Theorem               Assignment 4
+5	    Tue., Sep. 14         Inferential statistics: The Central Limit Theorem               Assignment 3
 
       Thu., Sep. 16	        
 
-6	    Tue., Sep. 21         Hypothesis testing: Power and effect size                       Assignment 5
+6	    Tue., Sep. 21         Hypothesis testing: Power and effect size                       Assignment 4
 
       Thu., Sep. 23	        
 
-7	    Tue., Sep. 28         Practical issues in hypothesis testing                          Assignment 6
+7	    Tue., Sep. 28         Practical issues in hypothesis testing                          Assignment 5
 
       Thu., Sep. 30	        
 
-8	    Tue., Oct. 5          Data cleaning and missing values analysis                       Assignment 7
+8	    Tue., Oct. 5          Data cleaning and missing values analysis                       Assignment 6
 
       Thu., Oct. 7	        
 
-9	    Tue., Oct. 12         The general linear model (GLM)                                  Assignment 8
+9	    Tue., Oct. 12         The general linear model (GLM)                                  Assignment 7
 
       Thu., Oct. 14	        
 
-10	  Tue., Oct. 19         More on multiple regression                                     Assignment 9
+10	  Tue., Oct. 19         More on multiple regression                                     Assignment 8
 
       Thu., Oct. 21	        
 
-11	  Tue., Oct. 26         One-way ANOVA                                                   Assignment 10
+11	  Tue., Oct. 26         One-way ANOVA                                                   Assignment 9
 
       Thu., Oct. 28	        
 
-12	  Tue., Nov. 2          Multiple comparisons                                            Assignment 11
+12	  Tue., Nov. 2          Multiple comparisons                                            Assignment 10
 
       Thu., Nov. 4	        
 
-13	  Tue., Nov. 9          Factorial ANOVA                                                 Assignment 12
+13	  Tue., Nov. 9          Factorial ANOVA                                                 Assignment 11
 
       Thu., Nov. 11	        Veteran's Day, No class meeting (Thu.)
 
-14	  Tue., Nov. 16         Factorial ANOVA   
+14	  Tue., Nov. 16         Factorial ANOVA                                                 Assignment 12  
 
       Thu., Nov. 18	        
 
