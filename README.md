@@ -1,2 +1,2 @@
-# capstone-syllabus
- Syllabus for Senior Capstone Course
+# stats-advanced-syllabus
+ Syllabus for Advanced Statistics
