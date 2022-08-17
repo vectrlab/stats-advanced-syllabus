@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <p align="center">**STAT 245: Advanced Statistics (Seminar)**</p>
 
-<p align="center">**Section 1, Fall 2021**</p>
+<p align="center">**Section 1, Fall 2022**</p>
 
 <p align="center">Last updated: `r format(Sys.time(), '%B %d, %Y')`</p>
 
@@ -33,27 +33,27 @@ Telephone:	      408-924-5659
 
 Email:	          david.schuster@sjsu.edu
 
-Office Hours:	    4:00-5:00pm Tuesdays and Thursdays; I am also available for in-person and Zoom appointments
+Office Hours:	    4:00-4:30pm Tuesdays and Thursdays; also available by appointment
 
 # Course Information
-Classroom:	DMH 359
+Classroom:	WSQ 113
 
-Class Days/Time:	Tues. & Thurs., 10:45am – 12:00pm
+Class Days/Time:	Tues. & Thurs., 10:30am – 11:45am
 
 Prerequisites:	STAT 115 or equivalent
 
 # Welcome!
 
-My name is Dr. David Schuster, and you are welcome to call me 'Dave,' 'David,' or 'Dr. Schuster.' My preferred pronouns are he/him/his. I have been teaching since 2008 and a professor at SJSU since 2013. I earned my Ph.D. in psychology from the University of Central Florida. I am looking forward to being your instructor as you develop your research and statistics skills in our course. I am also working to anticipate and minimize disruption to our class (some of which may be beyond our control) while prioritizing our health and safety. I will keep you updated should any changes become necessary, and I appreciate your patience as we navigate these challenges.
+My name is Dr. David Schuster, and you are welcome to call me 'Dave,' 'David,' or 'Dr. Schuster.' My preferred pronouns are he/him/his. I have been teaching since 2008 and a professor at SJSU since 2013. I earned my Ph.D. in psychology from the University of Central Florida. I am looking forward to being your instructor as you develop your research and statistics skills in our course.
 
 # Course Description
-This seminar is designed to train graduate students to critically select, use, interpret, and communicate the results of statistical analysis in psychological research. While reviewing fundamentals of descriptive and inferential statistics, we will cover advanced topics in the use of statistics for research, such as: The General Linear Model, factorial ANOVA, simple effects tests, power, effect size, and statistical conclusion validity. The course will emphasize discussion of current issues affecting the practice of science, especially those associated with replicability, publishing, and implications for social justice. Students will be trained to run analyses using the R language.
+This seminar is designed to train graduate students to critically select, use, interpret, and communicate the results of statistical analysis in psychological research. While reviewing fundamentals of descriptive and inferential statistics, we will cover advanced topics in the use of statistics for research, such as: The General Linear Model, factorial ANOVA, simple effects tests, power, effect size, and statistical conclusion validity. The course will emphasize discussion of current issues affecting the practice of science, especially those associated with replicability, publishing, and implications for social justice. We will learn to run statistical analysis using the R language.
 
-From the catalog: Advanced problems in statistical analysis. Advanced consideration of hypothesis testing, estimation and analysis of variance.
+The catalog description of this course is: Advanced problems in statistical analysis. Advanced consideration of hypothesis testing, estimation and analysis of variance.
 
 ## Course Format
 
-This is a technology intensive seminar. Required technology is described in the [required materials section](#requiredmaterials) of this document.
+This is a technology intensive, in-person seminar. Required technology is described in the [required materials section](#requiredmaterials) of this document.
 
 # Learning Outcomes {#learningoutcomes}
 
@@ -188,66 +188,46 @@ The point totals reflect rounding up to the nearest percentage. For example, an 
 
 # Course Requirements and Assignments
 
-## Enagement Activities
-**Engagement activities are prerequisites for completing weekly assignments. Engagement activities do not directly impact your final grade.**
-
-For each course module, several engagement activities will be posted to Canvas. Engagement activities are designed to help you build your knowledge and practice your skills without any consequences for failure. For example, one engagement activity might involve attending a class discussion and writing a short reflection. Engagement points are awarded for activity completion; engagement points are not worth any grade points. However, you need 100 engagement points in the current module in order for your weekly assignment to be graded. Therefore, I encourage you to complete engagement activities first before attempting the weekly assignment.
-
 ## Weekly Assignments
-**Weekly assignments are 90% of your final grade (900 points total).**
+**Weekly assignments are 70% of your final grade (70 points total).**
 
-One graded assignment will be posted to Canvas most weeks worth approximately 75 points. The weekly assignment is an assessment of the knowledge and skills you have developed through engagement activities. Most assignments will have multiple parts and will require analysis of a novel data set and write up. All submitted assignments must use APA style, but no manuscript formatting is necessary unless stated (e.g., you do _not_ need to include a title page, abstract, etc.). 
+One graded assignment will be posted to Canvas most weeks worth 70 points. The weekly assignment is an assessment of the knowledge and skills you have developed through engagement activities. Most assignments will have multiple parts and will require analysis of a novel data set and write up. All submitted assignments must use APA style, but no manuscript formatting is necessary unless stated (e.g., you do _not_ need to include a title page, abstract, etc.).
 
-Each graded assignment will be scored as satisfactory/credit or unsatisfactory/no credit. An assignment labeled satisfactory/credit will earn full points. An assignment labeled unsatisfactory/no credit may be revised and resubmitted without penalty. You will receive feedback for any unsatisfactory/no credit assignment. A rubric for assignment grading will be posted to Canvas.
+Each weekly assignment will be scored according to the rubric on Canvas. Any weekly assignment not earning full credit may be revised and resubmitted without penalty.
 
-You may discuss your weekly assignment with your classmates but you must perform your own analyses and do your own writing. When you submit a weekly assignment, you are claiming it as your own writing and analysis. If you use words or ideas from other sources, they must be quoted or cited. SJSU has a [15-minute, online plagiarism tutorial](https://libguides.sjsu.edu/plagiarism) that is worthwhile as a refresher of this important issue of academic integrity.
+You are encouraged to discuss your weekly assignment with your classmates, but you must perform your own analyses and do your own writing. When you submit any written assignment in this course, you are claiming it as your own writing and analysis. If you use words or ideas from other sources, they must be quoted or cited. SJSU has a [15-minute, online plagiarism tutorial](https://libguides.sjsu.edu/plagiarism) that is worthwhile as a refresher of this important issue of academic integrity.
 
-One course meeting each week will be dedicated to discussion and work on your current assignment.
+Approximately one course meeting each week will be dedicated to discussion and collaborative work on your current assignment.
 
-## Applied Project
-**The applied project is 10% of your final grade (100 points total).**
+## Project Milestone Assignments
+**The project milestone assignments are 20% of your final grade (200 points total).**
 
-As part of the applied project, you will conduct an analysis of an existing dataset. The complete applied project will include an abstract, introduction, methods section, results, and discussion. Drafts of each component will be completed as part of the weekly assignments throughout the course. You will present your applied project during the final exam period. A rubric with more complete instructions will be posted on Canvas, but because this assignment is completed over a series of milestone assignments throughout the semester, it is anticipated that successful completion of all requirements of the project, including the presentation, will earn full points. Your final applied project must be compiled into one document and submitted separately to earn credit.
+As part of the applied project, you will conduct an analysis of an existing dataset. The complete applied project will include an abstract, introduction, methods section, results, and discussion. Drafts of each component will be completed as part of the six project milestone assignments. Each milestone assignment will be worth 33 or 35 points.
 
-## Resubmission, Make-ups, and Grading Process
+Milestone assignments will be scored according to the rubric on Canvas. Any project milestone assignment not earning full credit may be revised and resubmitted without penalty.
 
-### You can resubmit graded assignments without penalty.
+## Applied Project Presentation
+**The applied project presentation is 10% of your final grade (100 points total).**
 
-Any assignment that receives a grade of unsatisfactory/no credit may be revised and resubmitted. Assignments may be submitted at any time until 11:59pm on the last day of instruction for the semester. At that time, all unsubmitted and unsatisfactory/no credit assignments will receive zero points. Should an event prevent you from completing the course, contact me as soon as you are able to discuss our options for an incomplete.
+You will present your applied project during the final exam period. A rubric with more complete instructions will be posted on Canvas. Because this assignment is completed over a series of milestone assignments throughout the semester, it is anticipated that successful completion of all requirements of the project, including the presentation, will earn full points. Your final applied project must be compiled into one document and submitted separately to earn credit.
+
+## Resubmission and Extensions Make-ups, and Grading Process {#makeup}
+
+### You can request an extension.
+
+Assignments not submitted by the due date posted on Canvas will be assigned a grade of zero unless you complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** to request an extension or makeup of the assignment. When you need an extension, please complete this form as soon as you can.
+
+### You can resubmit some assignments without penalty.
+
+Weekly reflection and project milestone assignments may be resubmitted at any time until 11:59pm on the last day of instruction for the semester. At that time, all unsubmitted assignments will receive zero points. Should an event prevent you from completing the course, contact me as soon as you are able to discuss our options for an incomplete. Please allow one week for grading submitted assignments. Plagiarized work cannot be resubmitted.
 
 ### We will work together on make-ups of scheduled activities.
 
-Class activities that are scheduled, such as an article discussion, cannot be recreated easily. If you miss a scheduled class activity, one option is to forgo the engagement points for that activity and earn them in other activities available for that week. Depending on the specifics of your situation, that may or may not be a good solution. If it is not, let me know and I will work with you to make up a missed scheduled activity by suggesting an alternative assignment. If I become concerned about excessive use of this option, I will discuss it with you. Finally, this is not an appropriate mechanism for extended absences from class; if you anticipate being absent from class, contact me as soon as you become aware of it.
-
-For all other class activities, no makeup policy is needed.
-
-### I will grade your assignments in order.
-
-- You may submit assignments in any order and at any time before the end of instruction. However:
-
-  + Because of the grading policy and scheduling of some class activities, you are strongly encouraged to work on the course material in order, as scheduled, and to submit assignments in order with enough time for them to be graded and resubmitted. The grading criteria for assignments will be the same regardless of whether the assignment is turned in early or near the end of the semester. 
-  
-  + Because engagement activities are preparation for the weekly assignment, you are strongly encouraged to do the engagement activities before starting the assignment. 
-  
- + I will only grade your weekly assignment once you have required number of engagement points as stated on Canvas. 
- 
- + I will only grade the first weekly assignment you have not yet completed. 
- 
- + I will provide you with timely grades and feedback. I will catch up on grading at a minimum of once per week but likely more frequently.
- 
-An example of might help:
-
-Imagine you work ahead and do all the engagement activities for Week 1 and Week 2. Then, you complete and submit the weekly assignment for Week 2, skipping Week 1. I see your submission, but I do not start grading it until you submit your assignment for Week 1. Next, imagine you then receive *no credit* for your Week 1 submission. You would need to revise, resubmit, and earn credit for your Week 1 assignment before I would grade Week 2. Imagining you got credit on your second attempt for Week 1's assignment, I would then grade your Week 2 assignment automatically.
-
-As this example shows, the course offers some flexibility but will work best if you complete the coursework in order.
+Class activities that are scheduled, such as a guest speaker, cannot be recreated easily. If you need a makeup assignment (e.g., you will miss the talk needed to complete an assignment, or even if you were navigating life events and could not focus on the talk), please contact me. I will work with you to create an alternative assignment. There is no need to pretend you attended an activity that you missed. 
 
 ### You might 'fail' an assignment or a few; that is normal.
 
-The reality of this course structure is that you may receive no credit/unsatisfactory weekly assignment grades from time to time. This might be a novel or uncomfortable experience for you as a graduate student, because: (1) you probably earned high grades in college, and (2) college has norms where low grades are 'bad.' *I encourage you to challenge this unhelpful mindset.* This is a course designed for you to 'fail' quickly, learn, and succeed. This structure is similar to your thesis, which also involves a process of trying, getting feedback, revising, and moving forward.
-
-### Track your progress frequently.
-
-I am available to discuss your progress in the course at any time. To help you plan for your grade, you are encouraged to enter your scores in my [progress report tool](https://www.davidschuster.info/learn/progress) available on my web site.
+The reality of this course structure is that you may receive unsatisfactory weekly assignment grades from time to time. This might be a novel or uncomfortable experience for you as a graduate student, because: (1) you probably earned high grades in college, and (2) college has norms where low grades are 'bad.' *I encourage you to challenge this unhelpful mindset.* This is a course designed for you to 'fail' quickly, learn, and succeed. This structure is similar to your thesis and research career, which also involve a process of trying, getting feedback, revising, and moving forward.
 
 ## Final examination or evaluation
 
@@ -259,10 +239,10 @@ The final evaluation in this course will be the applied project presentation.
 
 We agree to:
 
--	**Mutual respect**, which means that we recognize and value that we bring different skills, experiences, and qualities to our course, and we act with regard for how our behavior affects others. As much as we can, we recognize and accommodate individual constraints that impact our work. Some ways we will show mutual respect include:
-    + Affirming that intolerance, including racism, sexism, xenophobia, transphobia, and homophobia will not be acceptable in the physical and digital spaces that make up our course. 
+-	**Mutual respect**, which means that we recognize and value that we bring different skills, experiences, qualities, and identities to our course, and we act with regard for how our behavior affects others. As much as we can, we recognize and accommodate individual constraints that impact our work. Some ways we will show mutual respect include:
+    + Affirming that ableism, classism, racism, sexism, transphobia, heterosexism, and xenophobia will not be acceptable in the physical and digital spaces that make up our course. 
   
-    + Respecting our and others’ intellectual property. For students, this includes not sharing or posting copyrighted class materials. For instructors, this includes seeking permission before sharing or posting student work (unless for an educational purpose, checking for or responding to academic dishonesty, or due to legal action). Your work may be sent to turnitin.com and processed through search engines to detect plagiarism. However, I will not allow turnitin.com to store your work in their repository.
+    + Respecting our and others’ intellectual property. For students, this includes not sharing or posting copyrighted class materials. For me, this includes seeking permission before publicly sharing or posting your work (unless for an educational purpose, checking for or responding to academic dishonesty, or due to legal action). Your work may be sent to turnitin.com and processed through search engines to detect plagiarism. However, I will not allow turnitin.com to store your work in their repository.
   
     + We understand that we have multiple obligations and limited time. Our meetings will start promptly at times convenient for both of us.
   
@@ -270,7 +250,7 @@ We agree to:
 
 - **Academic and professional integrity**, which means that the credibility of science and education depends on us acting ethically. Ethical violations by us or our collaborators can jeopardize our research and harm our reputation as researchers. We also know that we cannot act ethically if we do not understand what that means for researchers. Therefore, it is important that research ethics are part of your learning in this class. You can expect support and guidance when you navigate and speak up on challenging ethical situations. You can also expect no tolerance of ethical or academic integrity violations that negatively affect our class or community, including cheating and plagiarism. You can expect your instructor to follow all University policies and protocols regarding the handling of suspected academic dishonesty. Penalties can include failure of the course.
 
--	**Unlimited support** related to the class or your professional training and development. This means that there is no limit to the number of questions you may ask, e-mails you may send, and no restriction on the hours you can spend in meetings with me. You need never apologize for asking a question or seeking support. Time is limited but support is not; if the volume of student meetings were to become unmanageable, I will make adjustments to help all students more efficiently (for example, by answering a common question to the whole class). I am always happy to help you.
+-	**Unlimited support** related to the class and your professional training and development. This means that there is no limit to the number of questions you may ask, e-mails you may send, and no restriction on the hours you can spend in meetings with me. You need never apologize for asking a question or seeking support. Time is limited but support is not; if the volume of student meetings were to become unmanageable, I will make adjustments to help all students more efficiently (for example, by answering a common question to the whole class). I am always happy to help you.
 
 -	**Incorporation of issues of social justice**. It is my goal to help prepare you to tackle the major societal challenges we face, including COVID-19 and broader issues of equity and sustainability. Success against these challenges requires equitable participation by people of diverse backgrounds and experiences. To support this goal, this course will incorporate discussion of social justice when relevant to the course and support your evaluation of how our discipline has/can/will address social justice, as well as how it has contributed to social injustice. 
 
@@ -287,75 +267,72 @@ Success in this course is based on the expectation that students will spend, for
 The course schedule is tentative and likely to change; modifications will be posted to this page.
 
 ------------------------------------------------------------------------------------------------------------------
-Week Date                   Topics                                                          Weekly assignments
+Week Date                   Topics                                                          Assignments
 ---- ---------------------- --------------------------------------------------------------- ----------------------
-1	    Thu., Aug. 19	        Introduction                                                    
+1	    Tue., Aug. 23         Research design, casual inference, and statistics               Assignment 1
 
-  
-2	    Tue., Aug. 24         Research design, casual inference, and statistics               Assignment 1
-
-      Thu., Aug. 26	        
+      Thu., Aug. 25	        
       
-3	    Tue., Aug. 31         Introducing R                                                   Assignment 2
+2	    Tue., Aug. 30         Analysis using R and R Studio                                   Assignment 2
       
-      Thu., Sep. 2	        
+      Thu., Sep. 1	        
 
-4	    Tue., Sep. 7          Individual student meetings; descriptive statistics             
+3	    Tue., Sep. 6          Guest speaker: Elizabeth Shallal, Mozilla
       
-      Thu., Sep. 9	        
+      Thu., Sep. 8	        Descriptive statistics
 
-5	    Tue., Sep. 14         Inferential statistics: The Central Limit Theorem               Assignment 3
+4	    Tue., Sep. 13         Inferential statistics: The Central Limit Theorem               Assignment 3
 
-      Thu., Sep. 16	        
+      Thu., Sep. 15	        
 
-6	    Tue., Sep. 21         Hypothesis testing: Power and effect size                       Assignment 4
+5	    Tue., Sep. 20         Hypothesis testing: Power and effect size                       Assignment 4
 
-      Thu., Sep. 23	        
+      Thu., Sep. 22	        
 
-7	    Tue., Sep. 28         Practical issues in hypothesis testing                          Assignment 5
+6	    Tue., Sep. 27         Practical issues in hypothesis testing                          Assignment 5, Milestone 1
 
-      Thu., Sep. 30	        
+      Thu., Sep. 29	        
 
-8	    Tue., Oct. 5          Data cleaning and missing values analysis                       Assignment 6
+7	    Tue., Oct. 4          [HFES](www.hfes.org) Conference Week, **No Class Meetings**      
 
-      Thu., Oct. 7	        
+      Thu., Oct. 6	        
 
-9	    Tue., Oct. 12         The general linear model (GLM)                                  Assignment 7
+8	    Tue., Oct. 11         Data cleaning and missing values analysis                       Assignment 6, Milestone 2
 
-      Thu., Oct. 14	        
+      Thu., Oct. 13	        
 
-10	  Tue., Oct. 19         More on multiple regression                                     Assignment 8
+9	    Tue., Oct. 18         The general linear model (GLM)                                  Assignment 7
 
-      Thu., Oct. 21	        
+      Thu., Oct. 20	        
 
-11	  Tue., Oct. 26         One-way ANOVA                                                   Assignment 9
+10	  Tue., Oct. 25         More on multiple regression                                     Assignment 8, Milestone 3
 
-      Thu., Oct. 28	        
+      Thu., Oct. 27	        
 
-12	  Tue., Nov. 2          Multiple comparisons                                            Assignment 10
+11	  Tue., Nov. 1          One-way ANOVA                                                   Milestone 4
 
-      Thu., Nov. 4	        
+      Thu., Nov. 3	        
 
-13	  Tue., Nov. 9          Factorial ANOVA                                                 Assignment 11
+12	  Tue., Nov. 8          Multiple comparisons                                            Assignment 9, Milestone 5                                                 
 
-      Thu., Nov. 11	        Veteran's Day, No class meeting (Thu.)
+      Thu., Nov. 10	         
 
-14	  Tue., Nov. 16         Factorial ANOVA                                                 Assignment 12  
+13	  Tue., Nov. 15         Factorial ANOVA                                                 Assignment 10 
 
-      Thu., Nov. 18	        
+      Thu., Nov. 17	        
 
-15	  Tue., Nov. 23         Writing workshop / Individual student meetings  
+14	  Tue., Nov. 22         Writing workshop / Individual student meetings  
 
-      Thu., Nov. 25	        Thanksgiving, No class meeting (Thu.)
+      Thu., Nov. 24	        Thanksgiving, No class meeting (Thu.)
 
-16	  Tue., Nov. 30         Publishing, meta-analysis, and open science
+15	  Tue., Nov. 29         Factorial ANOVA                                                 Milestone 6                                                
 
-      Thu., Dec. 2	        
+      Thu., Dec. 1	        
       
-End   Mon., Dec. 6          Last day of instruction, assignment submission ends 11:59 pm
+16    Tue., Dec. 6          Last day of instruction, assignment submission ends 11:59 pm
 
-Final Thu., Dec. 9	        Project presentations, 9:45am - 12:00pm
-------------------------------------------------------------------------------------------
+Final Mon., Dec. 12	        Project presentations, 9:45am - 12:00pm
+--------------------------------------------------------------------------------------------------------------------
 
 
 
