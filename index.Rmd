@@ -293,11 +293,11 @@ Week Date                   Topics                                              
 
       Thu., Sep. 29	        
 
-7	    Tue., Oct. 4          [HFES](www.hfes.org) Conference Week, **No Class Meetings**      
+7	    Tue., Oct. 4          Data cleaning and missing values analysis                       Assignment 6, Milestone 2
 
       Thu., Oct. 6	        
 
-8	    Tue., Oct. 11         Data cleaning and missing values analysis                       Assignment 6, Milestone 2
+8	    Tue., Oct. 11         [HFES](www.hfes.org) Conference Week, **No Class Meetings**      
 
       Thu., Oct. 13	        
 
