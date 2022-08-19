@@ -2,11 +2,11 @@
 title: "Syllabus"
 book_filename: statistics
 output:
-  pdf_document:
-    toc: no
   html_document:
     toc: yes
     theme: united
+  pdf_document:
+    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -189,9 +189,9 @@ The point totals reflect rounding up to the nearest percentage. For example, an 
 # Course Requirements and Assignments
 
 ## Weekly Assignments
-**Weekly assignments are 70% of your final grade (70 points total).**
+**Weekly assignments are 60% of your final grade (600 points total).**
 
-One graded assignment will be posted to Canvas most weeks worth 70 points. The weekly assignment is an assessment of the knowledge and skills you have developed through engagement activities. Most assignments will have multiple parts and will require analysis of a novel data set and write up. All submitted assignments must use APA style, but no manuscript formatting is necessary unless stated (e.g., you do _not_ need to include a title page, abstract, etc.).
+One graded assignment will be posted to Canvas most weeks worth 60 points. The weekly assignment is an assessment of the knowledge and skills you have developed through engagement activities. Most assignments will have multiple parts and will require analysis of a novel data set and write up. All submitted assignments must use APA style, but no manuscript formatting is necessary unless stated (e.g., you do _not_ need to include a title page, abstract, etc.).
 
 Each weekly assignment will be scored according to the rubric on Canvas. Any weekly assignment not earning full credit may be revised and resubmitted without penalty.
 
@@ -200,9 +200,9 @@ You are encouraged to discuss your weekly assignment with your classmates, but y
 Approximately one course meeting each week will be dedicated to discussion and collaborative work on your current assignment.
 
 ## Project Milestone Assignments
-**The project milestone assignments are 20% of your final grade (200 points total).**
+**The project milestone assignments are 30% of your final grade (300 points total).**
 
-As part of the applied project, you will conduct an analysis of an existing dataset. The complete applied project will include an abstract, introduction, methods section, results, and discussion. Drafts of each component will be completed as part of the six project milestone assignments. Each milestone assignment will be worth 33 or 35 points.
+As part of the applied project, you will conduct an analysis of an existing dataset. The complete applied project will include an abstract, introduction, methods section, results, and discussion. Drafts of each component will be completed as part of the six project milestone assignments. Each milestone assignment will be worth 50 points.
 
 Milestone assignments will be scored according to the rubric on Canvas. Any project milestone assignment not earning full credit may be revised and resubmitted without penalty.
 
@@ -293,11 +293,11 @@ Week Date                   Topics                                              
 
       Thu., Sep. 29	        
 
-7	    Tue., Oct. 4          Data cleaning and missing values analysis                       Assignment 6, Milestone 2
+7	    Tue., Oct. 4          Data cleaning and missing values analysis                       Assignment 6
 
       Thu., Oct. 6	        
 
-8	    Tue., Oct. 11         [HFES](www.hfes.org) Conference Week, **No Class Meetings**      
+8	    Tue., Oct. 11         [HFES](www.hfes.org) Conference Week, **No Class Meetings**     Milestone 2
 
       Thu., Oct. 13	        
 
@@ -314,7 +314,6 @@ Week Date                   Topics                                              
       Thu., Nov. 3	        
 
 12	  Tue., Nov. 8          Multiple comparisons                                            Assignment 9, Milestone 5                                                 
-
       Thu., Nov. 10	         
 
 13	  Tue., Nov. 15         Factorial ANOVA                                                 Assignment 10 
@@ -326,7 +325,6 @@ Week Date                   Topics                                              
       Thu., Nov. 24	        Thanksgiving, No class meeting (Thu.)
 
 15	  Tue., Nov. 29         Factorial ANOVA                                                 Milestone 6                                                
-
       Thu., Dec. 1	        
       
 16    Tue., Dec. 6          Last day of instruction, assignment submission ends 11:59 pm
