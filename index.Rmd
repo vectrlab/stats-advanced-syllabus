@@ -2,11 +2,11 @@
 title: "Syllabus"
 book_filename: statistics
 output:
+  pdf_document:
+    toc: no
   html_document:
     toc: yes
     theme: united
-  pdf_document:
-    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -279,11 +279,11 @@ Week Date                   Topics                                              
 
 3	    Tue., Sep. 6          Guest speaker: Elizabeth Shallal, Mozilla
       
-      Thu., Sep. 8	        Descriptive statistics
+      Thu., Sep. 8	        Analysis using R and R Studio, continued
 
-4	    Tue., Sep. 13         Inferential statistics: The Central Limit Theorem               Assignment 3
+4	    Tue., Sep. 13         Descriptive statistics in R                                                              
 
-      Thu., Sep. 15	        
+      Thu., Sep. 15	        Inferential statistics: The Central Limit Theorem               Assignment 3
 
 5	    Tue., Sep. 20         Hypothesis testing: Power and effect size                       Assignment 4
 
