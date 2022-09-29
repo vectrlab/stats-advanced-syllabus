@@ -291,13 +291,13 @@ Week Date                   Topics                                              
 
 6	    Tue., Sep. 27         Practical issues in hypothesis testing                          Assignment 5, Milestone 1
 
-      Thu., Sep. 29	        
+      Thu., Sep. 29	        No class meeting, work on Assignment 5
 
 7	    Tue., Oct. 4          Data cleaning and missing values analysis                       Assignment 6
 
       Thu., Oct. 6	        
 
-8	    Tue., Oct. 11         [HFES](www.hfes.org) Conference Week, **No Class Meetings**     Milestone 2
+8	    Tue., Oct. 11         [HFES](https://www.hfes.org) Conference Week, **No Class Meetings**     Milestone 2
 
       Thu., Oct. 13	        
 
