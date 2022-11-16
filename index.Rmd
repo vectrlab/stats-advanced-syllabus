@@ -2,11 +2,11 @@
 title: "Syllabus"
 book_filename: statistics
 output:
-  pdf_document:
-    toc: no
   html_document:
     toc: yes
     theme: united
+  pdf_document:
+    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -266,14 +266,14 @@ Success in this course is based on the expectation that students will spend, for
 
 The course schedule is tentative and likely to change; modifications will be posted to this page.
 
-------------------------------------------------------------------------------------------------------------------
-Week Date                   Topics                                                          Assignments
----- ---------------------- --------------------------------------------------------------- ----------------------
-1	    Tue., Aug. 23         Research design, casual inference, and statistics               Assignment 1
+------------------------------------------------------------------------------------------------------------------------------
+Week Date                   Topics                                                               Assignments
+---- ---------------------- -------------------------------------------------------------------- ----------------------
+1	    Tue., Aug. 23         Research design, casual inference, and statistics                    Assignment 1
 
       Thu., Aug. 25	        
       
-2	    Tue., Aug. 30         Analysis using R and R Studio                                   Assignment 2
+2	    Tue., Aug. 30         Analysis using R and R Studio                                        Assignment 2
       
       Thu., Sep. 1	        
 
@@ -283,40 +283,40 @@ Week Date                   Topics                                              
 
 4	    Tue., Sep. 13         Descriptive statistics in R                                                              
 
-      Thu., Sep. 15	        Inferential statistics: The Central Limit Theorem               Assignment 3
+      Thu., Sep. 15	        Inferential statistics: The Central Limit Theorem                    Assignment 3
 
-5	    Tue., Sep. 20         Hypothesis testing: Power and effect size                       Assignment 4
+5	    Tue., Sep. 20         Hypothesis testing: Power and effect size                            Assignment 4
 
       Thu., Sep. 22	        
 
-6	    Tue., Sep. 27         Practical issues in hypothesis testing                          Assignment 5, Milestone 1
+6	    Tue., Sep. 27         Practical issues in hypothesis testing                               Assignment 5, Milestone 1
 
       Thu., Sep. 29	        No class meeting, work on Assignment 5
 
-7	    Tue., Oct. 4          Data cleaning and missing values analysis                       Assignment 6
+7	    Tue., Oct. 4          Data cleaning and missing values analysis                            Assignment 6
 
       Thu., Oct. 6	        
 
-8	    Tue., Oct. 11         [HFES](https://www.hfes.org) Conference Week, **No Class Meetings**     Milestone 2
+8	    Tue., Oct. 11         [HFES](https://www.hfes.org) Conference Week, **No Class Meetings**  Milestone 2
 
       Thu., Oct. 13	        
 
-9	    Tue., Oct. 18         The general linear model (GLM)                                  Assignment 7
+9	    Tue., Oct. 18         The general linear model (GLM)                                       Assignment 7
 
       Thu., Oct. 20	        
 
-10	  Tue., Oct. 25         More on multiple regression                                     Assignment 8, Milestone 3
+10	  Tue., Oct. 25         More on multiple regression                                          Assignment 8, Milestone 3
 
       Thu., Oct. 27	        
 
-11	  Tue., Nov. 1          One-way ANOVA                                                   Milestone 4
+11	  Tue., Nov. 1          One-way ANOVA                                                        Milestone 4
 
       Thu., Nov. 3	        
 
-12	  Tue., Nov. 8          Multiple comparisons                                            Assignment 9, Milestone 5                                                 
+12	  Tue., Nov. 8          Multiple comparisons                                                 Assignment 9, Milestone 5                                                 
       Thu., Nov. 10	         
 
-13	  Tue., Nov. 15         Factorial ANOVA                                                 Assignment 10 
+13	  Tue., Nov. 15         Factorial ANOVA                                                      Assignment 10 
 
       Thu., Nov. 17	        
 
@@ -324,7 +324,8 @@ Week Date                   Topics                                              
 
       Thu., Nov. 24	        Thanksgiving, No class meeting (Thu.)
 
-15	  Tue., Nov. 29         Factorial ANOVA                                                 Milestone 6                                                
+15	  Tue., Nov. 29         Factorial ANOVA                                                      Milestone 6                                 
+
       Thu., Dec. 1	        
       
 16    Tue., Dec. 6          Last day of instruction, assignment submission ends 11:59 pm
